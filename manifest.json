@@ -1,0 +1,46 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "鉱石のドロップをインゴットにする",
+		"description": "By おあそび",
+		"min_engine_version": [
+			1,
+			20,
+			80
+		],
+		"uuid": "11c38a63-f6da-449f-a55b-ce78837babf6",
+		"version": [
+			1,
+			0,
+			8
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "ec9c5f58-3c7c-4add-b267-daf1ceab580e",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "3807ebae-526a-4f50-b8ea-80313bcb34f4",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.11.0"
+		}
+	]
+}
