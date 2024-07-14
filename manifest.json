@@ -17,6 +17,7 @@
 	},
 	"modules": [
 		{
+			"description": "鉱石のドロップをインゴットにする",
 			"type": "data",
 			"uuid": "ec9c5f58-3c7c-4add-b267-daf1ceab580e",
 			"version": [
