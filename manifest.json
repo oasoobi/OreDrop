@@ -1,7 +1,7 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "鉱石のドロップをインゴットにする",
+		"name": "OreDrop",
 		"description": "By おあそび",
 		"min_engine_version": [
 			1,
